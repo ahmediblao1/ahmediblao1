@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning next-js<br>🎯 Goals: ongoing<br>🎲 Fun fact: It’s all 0’s and 1’s</p>
+<p align="left">✨ Crafting digital wonders since 2020<br>🚀 Exploring the boundless realm of Next.js<br>🎯 Constantly chasing ambitious goals<br>🎲 Fun fact: My world is a mix of 0’s and 1’s</p>
 
 ###
 
