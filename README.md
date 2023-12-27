@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Crafting digital wonders since 2020<br>🚀 Exploring the boundless realm of Next.js<br>🎯 Constantly chasing ambitious goals<br>🎲 Fun fact: My world is a mix of 0’s and 1’s</p>
+<p align="left">✨With each click and scroll, we sculpt experiences that resonate, leaving a whisper of wonder in their wake. <br>
+ Crafting digital wonders since 2020<br>🚀 Exploring the boundless realm of Next.js<br>🎯 Constantly chasing ambitious goals<br>🎲 Fun fact: My world is a mix of 0’s and 1’s</p>
 
 ###
 
