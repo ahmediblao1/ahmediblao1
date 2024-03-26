@@ -1,4 +1,4 @@
-<h1 align="left"> This is where I CTRL the future ⏎🚀  </h1>
+<h1 align="left"> This is where I CTRL the future ⏎</h1>
 
 ###
 
